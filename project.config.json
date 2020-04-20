@@ -13,7 +13,7 @@
 		"checkInvalidKey": true
 	},
 	"compileType": "miniprogram",
-	"libVersion": "2.11.0",
+	"libVersion": "2.10.4",
 	"appid": "wxdd7605a16642b1ad",
 	"projectname": "githubdemo",
 	"cloudfunctionTemplateRoot": "",
